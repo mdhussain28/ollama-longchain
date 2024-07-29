@@ -7,7 +7,7 @@ services:
     ports:
       - 11434:11434
   streamlit-app:
-    image: abvijaykumar/ollama-langchain:0.2
+    image: hussain2844/ollama-langchain:0.1
     ports:
       - 8501:8501
 
